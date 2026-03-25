@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Edwilton</h1>
+<h1 align="center">👋 Olá</h1>
 
 <p align="center">
   🎯 Analista de Dados | BI | Automação <br>
